@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oh hey there! 🤠 👋
 
 <!--
 **itsRamos/itsramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm a Test Enthusiast and enjoy writing Android apps on my free time.
