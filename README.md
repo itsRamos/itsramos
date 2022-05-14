@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a Test Enthusiast and enjoy writing Android apps on my free time.
+It's all about Testing and mobile apps here.
